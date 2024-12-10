@@ -10,7 +10,7 @@ function LoginPage() {
         </p> */}
         <div className="w-full flex flex-col gap-3">
           <div>
-            <Input type="email" placeholder="メール"></Input>
+            <Input type="email" placeholder="メールアドレス"></Input>
           </div>
           <div>
             <Input type="password" placeholder="パスワード"></Input>
